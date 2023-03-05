@@ -1,4 +1,4 @@
-// Program takes as an input any integer from 0 to 3999 and returns it as a number in roman numerals.
+// Program takes as an input any integer from 0 to 3999 and returns arabic numeral and equivalent roman numeral.
 // at the bottom of file there are some sample tests.
 function convertToRoman(num) {
   const digitsArray = num.toString().split("");
