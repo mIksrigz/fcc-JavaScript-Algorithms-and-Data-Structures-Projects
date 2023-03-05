@@ -1,7 +1,7 @@
-//Program checks if a word/sentence is spelled the same way forwards and backwards,
-//ignoring all non alpha numercic characters, white spaces and letters case.
-//Program returns anwser if input strip of all characters mentioned above is a plindrome.
-//there are some sample tests below.
+// Program checks if a word/sentence is spelled the same way forwards and backwards,
+// ignoring all non alpha numercic characters, white spaces and letters case.
+// Program returns anwser if input strip of all characters mentioned above is a plindrome.
+// sample tests below program.
 
 function palindrome(str) {
   const preparedString = str

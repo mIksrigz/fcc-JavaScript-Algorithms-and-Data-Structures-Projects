@@ -1,6 +1,6 @@
 // Program takes as an input encrypted sentence(letters in sentence are shifted by 13 ex. N -> A, M -> B)
 // and deciphers it.
-// belowe are some sample tests.
+// sample tests below program.
 
 function rot13(str) {
   const charArray = str.split("");
